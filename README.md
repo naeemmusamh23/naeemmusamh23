@@ -2,7 +2,7 @@
 
 ## My name is naeem musamh, previously i studying accounting, but now i am full-stack development in javascript, i find it so interesting to learn.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemmusamh&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;   &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemmusamh&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemmusamh&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemmusamh&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Node](https://img.shields.io/badge/-Node-informational?style=flat&logo=NPM&logoColor=white&color=025800)
 ![JS](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
