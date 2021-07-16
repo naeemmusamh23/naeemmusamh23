@@ -20,6 +20,6 @@
 
 ## Contact me
 
-[![Gmail](./image/Gmail.svg)](https://naeem.musamh@gmail.com)
-[![linked-in](./image/Linkedin.svg)](https://www.linkedin.com/in/naeem-musamh-b91566156/)
-[![Twitter](./image/Twitter.svg)](https://twitter.com/naeem_musamh)
+[![Gmail](https://raw.githubusercontent.com/naeemmusamh/NaeemMusamh/390794843210fd1f9da2adafec7dca3b5524b90f/image/Gmail.svg)](https://naeem.musamh@gmail.com)
+[![linked-in](https://raw.githubusercontent.com/naeemmusamh/NaeemMusamh/390794843210fd1f9da2adafec7dca3b5524b90f/image/Linkedin.svg)](https://www.linkedin.com/in/naeem-musamh-b91566156/)
+[![Twitter](https://raw.githubusercontent.com/naeemmusamh/NaeemMusamh/390794843210fd1f9da2adafec7dca3b5524b90f/image/Twitter.svg)](https://twitter.com/naeem_musamh)
