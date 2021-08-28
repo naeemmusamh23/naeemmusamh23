@@ -1,22 +1,36 @@
 # Hi there 🙋‍♂️
 
-## My name is naeem musamh, previously i studying accounting, but now i am full-stack development in javascript, i find it so interesting to learn.
+## My name is Naeem Musamh, previously i studying accounting, but now i'm full-stack development With javascript, i find it so interesting to learn and hope to go deeply with it
+
+<br />
+
+## now i word solo to increase my skills and learn new language like C#/.NET, and hope to word with professional people and company in the future
+
+<br />
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naeemmusamh&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemmusamh&langs_count=8&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![Node](https://img.shields.io/badge/-Node-informational?style=flat&logo=NPM&logoColor=white&color=025800)
-![JS](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
-![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=dc4a27)
-![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=264bdc)
-![express](https://img.shields.io/badge/-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=black)
-![socket](https://img.shields.io/badge/⚡-Socket.io-informational?style=flat&logoColor=white&color=black)
-![jest](https://img.shields.io/badge/-Jest-informational?style=flat&logo=Jest&logoColor=white&color=red)
-![mongo](https://img.shields.io/badge/-mongo-informational?style=flat&logo=mongoDB&logoColor=white&color=green)
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=blue)
-![Redux](https://img.shields.io/badge/-Redux-informational?style=flat&logo=Redux&logoColor=white&color=911bdc)
-![Material-UI](https://img.shields.io/badge/-Materialui-informational?style=flat&logo=Material-UI&logoColor=white&color=269bdc)
-![VC CODE](https://img.shields.io/badge/-VSCODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=269bdc)
-![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=911bdc)
+<br />
+
+## Technological
+
+![Node](https://img.shields.io/badge/Node.JS-%23323330.svg?style=for-the-badge&logo=Node.JS&logoColor=GREEN)
+![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=HTML5&logoColor=RED)
+![CSS3](https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=CSS3&logoColor=blue)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-%23323330.svg?style=for-the-badge&logo=EXPRESS&logoColor=WHITE)
+![socket.io](https://img.shields.io/badge/socket.io-%23323330.svg?style=for-the-badge&logo=socket.io&logoColor=%23F7DF1E)
+![mongo](https://img.shields.io/badge/mongo-%23323330.svg?style=for-the-badge&logo=mongoDB&logoColor=GREEN)
+![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=React&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-%23323330.svg?style=for-the-badge&logo=Redux&logoColor=911bdc)
+![Material-UI](https://img.shields.io/badge/MaterialUI-%23323330.svg?style=for-the-badge&logo=Material-UI&logoColor=blue)
+![Heroku](https://img.shields.io/badge/Heroku-%23323330.svg?style=for-the-badge&logo=Heroku&logoColor=911bdc)
+![.NET](https://img.shields.io/badge/.NET-%23323330.svg?style=for-the-badge&logo=.NET&logoColor=%23F7DF1E)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br />
 
 ## Contact me
 
